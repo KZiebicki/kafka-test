@@ -1,0 +1,6 @@
+{
+  //1 - Run PRODUCER
+  //2 - Run CONSUMER
+  //3 - Run BOTH
+  "runMode": 3
+}
